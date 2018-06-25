@@ -1,4 +1,4 @@
 
 TESTE --- ALTERAÇÃO EM 25/06 09:01
 alterado 25/06 --- 09;14
-
+alterado 25/06 -- incluido no gitignore.txt
