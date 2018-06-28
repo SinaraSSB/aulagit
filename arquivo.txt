@@ -1,5 +1,4 @@
 Alo mundo 
-alterado
-aula gi 
-aulterado em 27/06/2018
+Aula git 28/06  
+-- alterando arquivo e enviando para o github
 
