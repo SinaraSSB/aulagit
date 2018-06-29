@@ -1,4 +1,6 @@
 Alo mundo 
 Aula git 28/06  
 -- alterando arquivo e enviando para o github
+fazer push para origin e não para aulagit 
 
+teste
